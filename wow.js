@@ -1,0 +1,1 @@
+deleteEverything(now)
